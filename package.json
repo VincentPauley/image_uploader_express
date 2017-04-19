@@ -1,0 +1,22 @@
+{
+  "name": "image_uploader",
+  "version": "1.0.0",
+  "description": "upload images to server using express on the back end",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VincentPauley/image_uploader_express.git"
+  },
+  "author": "Vincent Pauley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VincentPauley/image_uploader_express/issues"
+  },
+  "homepage": "https://github.com/VincentPauley/image_uploader_express#readme",
+  "dependencies": {
+    "bower": "^1.8.0"
+  }
+}
