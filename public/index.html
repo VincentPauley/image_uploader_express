@@ -12,8 +12,10 @@
     <div class="container">
       <h1>Image Uploader!</h1>
 
-      <form action="upload/image" method="post">
-        <input type="file" name="upload" />
+      <!-- Image Upload Form -->
+      <form enctype="multipart/form-data" action="upload/" method="post">
+        <input type="file" name="photo" />
+        <button>Upload Image!</button>
       </form>
     </div>
   </body>
